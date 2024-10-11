@@ -77,7 +77,7 @@ identiFi 利用区块链技术将用户身份信息安全地存储在区块链�
 **克隆仓库**
 
 ```bash
-git clone 
+git clone git@github.com:CourteousBin/identiFi.git
 ```
 
 **安装依赖**
